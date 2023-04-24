@@ -3,8 +3,8 @@
 
 
 
-- 🔭 I’m currently working on JavaScript And its Frameworks.
-- 🌱 I’m currently learning Reactjs.
+- 🔭 I’m currently working on MERN stack.
+- 🌱 I’m currently learning MERN stack.
 - 👯 I’m looking to collaborate on in Reactjs Projects and OpenSource Projects
 - 📫 How to reach me: aviraljuyal@gmail.com.
 - 😄 Pronouns: he/him.
